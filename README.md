@@ -1,1 +1,1 @@
-# nginx_tcp_lua_sharding 
+# nginx_tcp_redis_sharding 
